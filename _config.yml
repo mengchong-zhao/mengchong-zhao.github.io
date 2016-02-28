@@ -8,12 +8,10 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
         - name:         mengchong-zhao
-url:          /mengchong-zhao
-  - name:         Blog
+       
   url:          http://mengchong-zhao.github.io
     external:     true
-  - name:         GitHub
-  url:          http://github.com/mengchong-zhao
+
     external:     true
 highlighter:      pygments
 permalink:        pretty
