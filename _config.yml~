@@ -10,10 +10,10 @@ links:
   - name:         About
     url:          /about
   - name:         Blog
-  url:          http://mengchong-zhao.github.io
+    url:          http://muan.co
     external:     true
   - name:         GitHub
-  url:          http://github.com/mengchong-zhao
+    url:          http://github.com/muan
     external:     true
 highlighter:      pygments
 permalink:        pretty
