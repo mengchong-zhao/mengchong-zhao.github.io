@@ -13,7 +13,8 @@ links:
     url:          http://muan.co
     external:     true
   - name:         GitHub
-    url:          http://github.com/mengchong-zhao    external:     true
+    url:          http://github.com/mengchong-zhao
+    external:     true
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
