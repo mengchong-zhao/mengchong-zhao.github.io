@@ -1,25 +1,3 @@
-﻿# Welcome to Jekyll!
-#
-
-# Site settings
-title: ZCF BLOG
-description: |
-  这个世界并不在乎你的自尊，
-  只在乎你做出来的成绩，
-  然后再去强调你的感受。——比尔·盖茨  
-owner: Zhaochaofeng 
-first_published: 2016 
-email: your-email@domain.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/mengchong-zhao
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
-
-# Build settings
-markdown: kramdown
-#sass:
-#  style: compressed
+name: Gearoid O'Connor
+markdown: redcarpet
+exclude: ["node_modules", "gulpfile.js", "package.json"]
