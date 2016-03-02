@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "如何在GitHub上创建自己的博客"
-date:   2016-03-02 16:51:11
+title:  "GitHub blog"
+date:   2016-03-02 11:51:11
 categories: blog
 ---
 
