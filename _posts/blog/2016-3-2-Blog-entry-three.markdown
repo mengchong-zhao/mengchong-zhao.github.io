@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blog GitHub jekyll"
+title:  "Blog entry three"
 date:   2016-3-2 13:51:11
 categories: blog
 ---
