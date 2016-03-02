@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Use GitHub Jekyll to build Blog"
-date:   2016-03-02 14:51:11
+date:   2015-10-12 14:51:11
 categories: blog
 ---
 
