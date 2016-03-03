@@ -5,9 +5,9 @@ date:   2015-10-12 14:51:11
 categories: blog
 ---
 
-**使用GitHub和Jekyll构建一个属于自己的博客**
+使用GitHub和Jekyll构建一个属于自己的博客
 ----------
-# 前言 #
+# 前言
 也曾经写过技术博客，但内心深处总感觉在CSDN上写写画画并非一个专业程序猿所为。在网上看到这样一句话，作为题引分享给大家：
 “阮一峰说，喜欢写博客的人，会经历三个阶段：
 
@@ -18,7 +18,7 @@ categories: blog
 第三阶段，觉得独立博客的管理太麻烦，最好在保留控制权的前提下，让别人来管，自己只负责写文章。”
 	
   以下介绍在Windows环境下利用Github+Jekyll搭建一个博客：
-# 环境搭建 #
+# 环境搭建
 ## 注册GitHub ##
 - GitHub是一个基于Git的代码仓管理平台；打开官网[https://github.com/](https://github.com/)，注册即可。注册成功后，在主页的右下方会看到创建Git仓的标示
 
@@ -149,4 +149,4 @@ Jekyll工程先加载的是_posts下的博客文件，存在site.posts中，这�
 post.html中的代码可以解读为，遍历site.posts中，类型属于blog的文件，分别按照for语句块中的格式加载在页面上。并且这里限定了，在首页的博客部分，最多执行for循环的次数是6，也就是首页上，博客区最多呈现6篇博客标题。
 更详细的Jekyll学习解读，参考：[Jekyll基础](https://alfred-sun.github.io/blog/2015/01/10/jekyll-liquid-syntax-documentation/)
 
-关于如何编辑博客，这里推荐一款好用的文本编辑器，Markdownpad2。
+关于如何编辑博客，这里推荐一款好用的文本编辑器，Markdownpad2
